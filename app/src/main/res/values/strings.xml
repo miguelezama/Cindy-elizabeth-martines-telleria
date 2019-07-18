@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alarma</string>
+    <string name="detener_alarma">Detener Alarma</string>
+    <string name="desea_guardar_la_alarma">Desea guardar la Alarma</string>
+    <string name="ajustar_alarma">Ajustar Alarma</string>
+    <string name="schedule_a_job">Schedule A JOB</string>
+</resources>
